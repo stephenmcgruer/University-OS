@@ -1,6 +1,6 @@
 # CS3 Operating Systems
 
-This repository contains my coursework for the 3rd Year [Operating Systems](www.inf.ed.ac.uk/teaching/courses/os) course, taken in 2010/2011. Unfortunately I was only able to locate the second of the two courseworks, which was an essay on programming paradigms used in OS kernels.
+This repository contains my coursework for the 3rd Year [Operating Systems](http://www.inf.ed.ac.uk/teaching/courses/os) course, taken in 2010/2011. Unfortunately I was only able to locate the second of the two courseworks, which was an essay on programming paradigms used in OS kernels.
 
 Coursework for other courses can be found in my main [University Coursework](https://github.com/stephenmcgruer/University) repository.
 
